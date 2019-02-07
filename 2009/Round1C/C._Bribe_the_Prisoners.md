@@ -1,3 +1,5 @@
+dp[i][j]表示的是将从A[i]号囚犯到A[j]号囚犯（not inclusive）的连续部分里的所有囚犯全部释放所需的最少金币数
+
 ```python
 import sys
 
