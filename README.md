@@ -1,2 +1,3 @@
-# GCJ
-Google Code Jam
+# Competition Record
+- Codeforces
+- Google Code Jam
