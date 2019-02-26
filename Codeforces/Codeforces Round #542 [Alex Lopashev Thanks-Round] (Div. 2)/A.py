@@ -1,6 +1,7 @@
 n = int(input())
 a = [int(i) for i in input().split(' ')]
 
+
 def helper(a):
     pos, neg = 0, 0
     for i in a:
@@ -14,5 +15,6 @@ def helper(a):
         return -1
     else:
         return 0
+
 
 print(helper(a))
